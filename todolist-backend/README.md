@@ -4,7 +4,7 @@ How to run
    
 https://github.com/dimaclara/Five_project_APIK48/tree/main/todolist-backend
 
-2.Run the Application
+2. Run the Application
 
 -mvn clean package
 
